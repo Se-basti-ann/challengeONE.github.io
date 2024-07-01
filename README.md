@@ -1,2 +1,2 @@
-#challengeonecodificador4
+#challengeonecodificador
 Reto ONE
